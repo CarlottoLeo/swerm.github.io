@@ -1,0 +1,9 @@
+.login{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header.masthead .intro-text{
+  margin-top: -100px;
+}
