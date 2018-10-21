@@ -1,0 +1,19 @@
+
+@media (min-width: 768px) {
+	.masthead .intro-text .intro-heading {
+		 font-size: 50px!important;
+	}
+}
+
+.masthead{
+    background-image: url(../img/banner1.jpg)!important;	
+	color: #212529!important;
+}
+
+#mainNav {
+	padding-top: 20px;
+    padding-bottom: 20px;
+	background-color: #212529!important;
+	color: #fff!important;
+}
+	
